@@ -1,4 +1,4 @@
-# NLP_Projects
+# NLP related Projects
 ## Content
 
 - [Hidden Markov Model Tagger](/HMM-Tagger)          
