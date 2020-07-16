@@ -4,5 +4,5 @@
 - [Hidden Markov Model Tagger](/HMM-Tagger)          
     Use the Pomegranate library to build a hidden Markov model for part of speech tagging with a universal tagset. Hidden Markov models have been able to achieve >96% tag accuracy with larger tagsets on realistic text corpora. 
 
-- [Topic Modeling] (/Topic%20Modeling)        
+- [Topic Modeling](/Topic%20Modeling)        
     Using LDA to classify text in a document to a particular topic category. It builds a topic per document model and words per topic model, modeled as Dirichlet distributions.This project uses a list of over one million news headlines published over 15 years.
