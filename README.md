@@ -6,3 +6,6 @@
 
 - [Topic Modeling](/Topic%20Modeling)        
     Using LDA to classify text in a document to a particular topic category. It builds a topic per document model and words per topic model, modeled as Dirichlet distributions.This project uses a list of over one million news headlines published over 15 years.
+
+- [Spam Classifier](/Spam-classifier)           
+    Using the Naive Bayes algorithm to create a model that can classify dataset SMS messages(spam or non-spam) as a binary classification problem. Also, this is a supervised learning problem, as we will be feeding a labelled dataset into the model, that it can learn from, to make future predictions.
